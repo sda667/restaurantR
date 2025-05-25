@@ -40,4 +40,5 @@ Queries were implemented using SQL and in some cases formal relational algebra/t
 - `php/`: All server-side logic
 - `assets/`: Static content (CSS, images)
 - `index.php`: Landing page
+For the full project check the release
 
