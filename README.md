@@ -27,7 +27,7 @@ The backend supports advanced data queries and filters such as:
 
 Queries were implemented using SQL and in some cases formal relational algebra/tuple calculus as demonstrated in the project report.
 
-## 🛠️ Technologies Used
+## 🛠️ Tools Used
 
 - **Frontend**: HTML, CSS  
 - **Backend**: PHP  
@@ -41,4 +41,11 @@ Queries were implemented using SQL and in some cases formal relational algebra/t
 - `assets/`: Static content (CSS, images)
 - `index.php`: Landing page
 For the full project check the release
+
+## 📝 Authors
+- Bahja Ali
+- Dujardin William
+- Malouch Nikita
+- Layachi Nassime
+
 
